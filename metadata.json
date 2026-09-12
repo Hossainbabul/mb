@@ -1,0 +1,7 @@
+{
+  "name": "Titil Net ISP",
+  "description": "Madhabpur Titil Dot Net ISP billing, subscriber management, network provisioning, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
